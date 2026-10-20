@@ -30,7 +30,7 @@ Anyone can clone this repo, run three commands, and have a private encrypted cha
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/lan-chat-next.git
+git clone https://github.com/kartheek6092/lan-chat.git
 cd lan-chat-next
 
 # 2. Install dependencies
